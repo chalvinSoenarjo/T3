@@ -1,0 +1,22 @@
+download
+
+fork it to create copy in own repo and then download to computer
+
+
+clone notion page title in class 
+
+
+package that you installed try to get it running in your computer
+running npm install command
+
+.env.example becomes only .env
+
+trpc.io
+
+npx prisma db push
+
+1118366066339479622	
+
+NYXT0VGovP8Gb8-Ie_agin3-LbSRx3am
+
+aN0IsFsEvkF-hIR3mOrw3WlFiDvjMldj
